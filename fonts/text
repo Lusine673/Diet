@@ -1,1 +1,1 @@
-DejaVuSans.ttf
+font_path = Path(__file__).parent / "fonts" / "DejaVuSans.ttf"
